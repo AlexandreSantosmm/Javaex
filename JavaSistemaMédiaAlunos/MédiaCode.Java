@@ -12,7 +12,7 @@ public class main {
         String Situacao;
 
         // Receber a quantidade de avaliações
-        System.out.println("Digite a quantidade de avaliações produzidas (Provas, trabalhos e lições: ");
+        System.out.println("Digite a quantidade de avaliações produzidas (Provas, trabalhos e lições): ");
         qtdAvaliacoes = scanner.nextInt();
 
         notaCadaAvaliacao = new double [qtdAvaliacoes];
